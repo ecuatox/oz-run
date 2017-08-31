@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "oz-run",
+          "submenu": [
+            {
+              "label": "Compile",
+              "command": "oz-run:compile"
+            },
+            {
+              "label": "Run",
+              "command": "oz-run:run"
+            },
+            {
+              "label": "Compile and Run",
+              "command": "oz-run:compile_run"
+            },
+            {
+              "label": "Clear output",
+              "command": "oz-run:clear"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

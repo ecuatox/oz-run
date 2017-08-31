@@ -1,0 +1,23 @@
+{
+  "name": "oz-run",
+  "main": "./lib/oz-run",
+  "version": "0.0.0",
+  "description": "Compile/Run oz/ozf files",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "oz-run:compile",
+      "oz-run:run",
+      "oz-run:compile_run",
+      "oz-run:clear"
+    ]
+  },
+  "repository": "https://github.com/ecuatox/oz-run",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
