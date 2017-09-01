@@ -1,8 +1,8 @@
 {
   "name": "oz-run",
   "main": "./lib/oz-run",
-  "version": "0.0.0",
-  "description": "Compile/Run oz/ozf files",
+  "version": "0.0.1",
+  "description": "Automatically compile/run .oz/.ozf files and view result",
   "keywords": [
   ],
   "activationCommands": {
