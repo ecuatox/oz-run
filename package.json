@@ -1,10 +1,9 @@
 {
   "name": "oz-run",
   "main": "./lib/oz-run",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Automatically compile/run .oz/.ozf files and view result",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "oz-run:compile",
@@ -19,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
