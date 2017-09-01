@@ -25,6 +25,10 @@
             {
               "label": "Clear output",
               "command": "oz-run:clear"
+            },
+            {
+              "label": "Insert default",
+              "command": "oz-run:insert"
             }
           ]
         }

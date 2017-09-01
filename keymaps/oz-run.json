@@ -3,6 +3,7 @@
     "cmd-alt-c": "oz-run:compile",
     "cmd-alt-r": "oz-run:run",
     "cmd-alt-b": "oz-run:compile_run",
-    "cmd-alt-x": "oz-run:clear"
+    "cmd-alt-x": "oz-run:clear",
+    "cmd-alt-v": "oz-run:insert"
   }
 }

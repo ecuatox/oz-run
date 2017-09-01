@@ -10,7 +10,8 @@
       "oz-run:compile",
       "oz-run:run",
       "oz-run:compile_run",
-      "oz-run:clear"
+      "oz-run:clear",
+      "oz-run:insert"
     ]
   },
   "repository": "https://github.com/ecuatox/oz-run",
