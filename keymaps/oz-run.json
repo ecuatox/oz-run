@@ -1,9 +1,9 @@
 {
   "atom-workspace": {
-    "cmd-alt-c": "oz-run:compile",
-    "cmd-alt-r": "oz-run:run",
-    "cmd-alt-b": "oz-run:compile_run",
-    "cmd-alt-x": "oz-run:clear",
-    "cmd-alt-v": "oz-run:insert"
+    "ctrl-alt-c": "oz-run:compile",
+    "ctrl-alt-r": "oz-run:run",
+    "ctrl-alt-g": "oz-run:compile_run",
+    "ctrl-alt-x": "oz-run:clear",
+    "ctrl-alt-v": "oz-run:insert"
   }
 }
